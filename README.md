@@ -10,5 +10,5 @@ For the programs to work, run the application class of the program in your IDE
 **Computer-assisted instruction(CAI) program aims to teach a person the concept of class and objects in Java, This project included three seperate screens</br>
 1. The concept screen - this screen teachs the user basic concepts about class and objects with instructional video included 
 2. The activity screen - this screen works like an IDE, the user can code in this screen and run his code, a challenge is also given in this screen for the user to complete
-3. The quiz/test screen - this screen is where the user can complete a quiz and measures his/her skill, and the quiz is completed, the user will be able to view the result and the answer screen
+3. The quiz/test screen - this screen is where the user can complete a quiz and measures his/her skill, and the quiz is completed, the user will be able to view the result and the answer screen**
 ---
