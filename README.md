@@ -1,7 +1,7 @@
 # complete_projects(java)
 ----
 #### My name is Zheng Pei and I'm currenly a high school student, here are some of the projects that I completed during high school, some of them are my cs class homeworks while the others are completed out of my interest.  </br>
-## ***For the programs to work, run the application class of the program in your IDE***
+## ***If you simply want to test the program, you only need to download the jar file, if you want to run the program yourself in an IDE, you should run the application file***
 ---
 ## [Mancala](https://github.com/ZhengPei1/complete_projects/tree/main/Mancala) </br>
 #### **This project simulates the game of Mancala, a two-player turn-based strategy board games played with small stones, it allows the player to play agaist AI or another player**
