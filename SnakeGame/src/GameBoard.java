@@ -163,7 +163,7 @@ public class GameBoard {
                     while (true) {
                         boolean noOverlap = true;
                         for (int i = 0; i < snakeBody.size(); ++i) {
-                            if (snakeBody.getFirst().getX() == Food.random_x && snakeBody.getFirst().getY() == Food.random_y) {
+                            if (snakeBody.get(i).getX() == Food.random_x && snakeBody.get(i).getY() == Food.random_y) {
                                 noOverlap = false;
                                 Food.generateCoordinate();
                                 break;
