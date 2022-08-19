@@ -1,4 +1,4 @@
-# complete_projects
+# complete_projects(java)
 ----
 #### My name is Zheng Pei and I'm currenly a high school student, here are some of the projects that I completed during high school, some of them are my cs class homeworks while the others are completed out of my interest.  </br>
 ## ***For the programs to work, run the application class of the program in your IDE***
@@ -12,3 +12,7 @@
 #### **2. The activity screen - this screen works like an IDE, the user can code in this screen and run his code, a challenge is also given in this screen for the user to complete**
 #### **3. The quiz/test screen - this screen is where the user can complete a quiz and measures his/her skill, and the quiz is completed, the user will be able to view the result and the answer screen**
 ---
+##[SnakeGame](https://github.com/ZhengPei1/completed_projects/tree/main/SnakeGame)
+#### **a snake game, the game will shown a result frame after the snake is dead, showing the score the player got and gives him/her an option to restart the game**
+#### **for every three fruits the player got, the speed of the snake will increase by 10%**
+#### **a snake is considered dead if it 1. hits a wall 2. collide with its own body**
