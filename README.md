@@ -17,3 +17,6 @@
 #### **a snake game, the game will shown a result frame after the snake is dead, showing the score the player got and gives him/her an option to restart the game**
 #### **for every three fruits the player got, the speed of the snake will increase by 10%**
 #### **a snake is considered dead if it 1. hits a wall 2. collide with its own body**
+---
+## [Amazing Labyrinth]
+### the board game of amazing laybrinth done by a 4 people team, with images provided by Mr.Fernandes and from google
